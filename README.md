@@ -9,4 +9,4 @@ The DHT22 combines two sensing components:
 * Thermistor-based temperature sensing element
 The internal microcontroller processes the sensor data and sends calibrated digital output to the microcontroller.
 ## ⚙️ Humidity Sensing Mechanism
-
+The humidity sensor operates using capacitive sensing.
