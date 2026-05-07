@@ -11,3 +11,4 @@ The internal microcontroller processes the sensor data and sends calibrated digi
 ## ⚙️ Humidity Sensing Mechanism
 The humidity sensor operates using capacitive sensing.
 ### 🔹 Principle:
+When humidity changes, the dielectric constant of the sensing material changes, causing variation in capacitance.
