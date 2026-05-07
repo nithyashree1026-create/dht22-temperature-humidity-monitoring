@@ -51,3 +51,4 @@ Using ESP32 Wi-Fi capability, environmental data can be monitored remotely.
 * Avoid long cable distances
 * Maintain stable power supply
 * Prevent condensation exposure
+## ⚠️ Limitations
