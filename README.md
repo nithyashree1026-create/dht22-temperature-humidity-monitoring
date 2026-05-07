@@ -27,3 +27,7 @@ The DHT22 typically contains:
 ## 📡 Digital Communication Protocol
 DHT22 uses a single-wire serial communication protocol.
 ### 🔹 Communication Flow:
+1. ESP32 sends start signal
+2. DHT22 responds with acknowledgment
+3. Sensor transmits 40-bit data packet
+4. Data includes humidity, temperature, and checksum
