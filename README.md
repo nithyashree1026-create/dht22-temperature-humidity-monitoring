@@ -62,3 +62,4 @@ Using ESP32 Wi-Fi capability, environmental data can be monitored remotely.
 * IoT-based weather analytics
 ## 🔮 Future Scope
 DHT22 sensors integrated with cloud analytics and AI platforms can support predictive environmental monitoring systems.
+## ✨ Conclusion
