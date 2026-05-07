@@ -39,3 +39,4 @@ ESP32 communicates with DHT22 using GPIO pins.
 * ESP32 processes values
 * Data displayed or sent to cloud platforms
 ## 🌐 IoT Integration
+Using ESP32 Wi-Fi capability, environmental data can be monitored remotely.
