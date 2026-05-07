@@ -19,3 +19,4 @@ Temperature is measured using an NTC thermistor.
 * Resistance decreases as temperature increases
 * Internal ADC converts analog variation into digital temperature values
 ## 🔌 Pin Configuration
+The DHT22 typically contains:
