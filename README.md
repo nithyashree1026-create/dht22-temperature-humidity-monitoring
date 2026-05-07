@@ -40,3 +40,8 @@ ESP32 communicates with DHT22 using GPIO pins.
 * Data displayed or sent to cloud platforms
 ## 🌐 IoT Integration
 Using ESP32 Wi-Fi capability, environmental data can be monitored remotely.
+### 🔹 Applications:
+* Smart weather stations
+* Greenhouse monitoring
+* Indoor climate monitoring
+* Industrial environmental analysis
