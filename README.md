@@ -63,3 +63,5 @@ Using ESP32 Wi-Fi capability, environmental data can be monitored remotely.
 ## 🔮 Future Scope
 DHT22 sensors integrated with cloud analytics and AI platforms can support predictive environmental monitoring systems.
 ## ✨ Conclusion
+The DHT22 sensor provides reliable environmental monitoring through accurate temperature and humidity sensing. When integrated with ESP32, it enables scalable and intelligent IoT-based monitoring solutions.
+
