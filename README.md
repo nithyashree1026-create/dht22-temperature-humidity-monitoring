@@ -16,3 +16,5 @@ The sensor converts this capacitance variation into digital humidity values.
 ## 🌡️ Temperature Sensing Mechanism
 Temperature is measured using an NTC thermistor.
 ### 🔹 Working:
+* Resistance decreases as temperature increases
+* Internal ADC converts analog variation into digital temperature values
