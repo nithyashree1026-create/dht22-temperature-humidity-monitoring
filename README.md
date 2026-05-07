@@ -6,3 +6,4 @@ This repository explores the internal working mechanism, sensing methodology, ES
 ## 🧠 Working Principle
 The DHT22 combines two sensing components:
 * Capacitive humidity sensing element
+* Thermistor-based temperature sensing element
