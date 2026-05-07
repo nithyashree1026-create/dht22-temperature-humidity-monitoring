@@ -25,3 +25,4 @@ The DHT22 typically contains:
 * NC → No connection
 * GND → Ground
 ## 📡 Digital Communication Protocol
+DHT22 uses a single-wire serial communication protocol.
