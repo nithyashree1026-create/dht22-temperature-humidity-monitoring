@@ -12,3 +12,4 @@ The internal microcontroller processes the sensor data and sends calibrated digi
 The humidity sensor operates using capacitive sensing.
 ### 🔹 Principle:
 When humidity changes, the dielectric constant of the sensing material changes, causing variation in capacitance.
+The sensor converts this capacitance variation into digital humidity values.
