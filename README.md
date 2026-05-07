@@ -56,3 +56,7 @@ Using ESP32 Wi-Fi capability, environmental data can be monitored remotely.
 * Sensitive to extreme environmental conditions
 * Not suitable for highly industrial precision applications
 ## 🚀 Advanced Applications
+* HVAC automation systems
+* Smart agriculture monitoring
+* Data logging systems
+* IoT-based weather analytics
