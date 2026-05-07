@@ -26,3 +26,4 @@ The DHT22 typically contains:
 * GND → Ground
 ## 📡 Digital Communication Protocol
 DHT22 uses a single-wire serial communication protocol.
+### 🔹 Communication Flow:
