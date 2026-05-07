@@ -14,3 +14,4 @@ The humidity sensor operates using capacitive sensing.
 When humidity changes, the dielectric constant of the sensing material changes, causing variation in capacitance.
 The sensor converts this capacitance variation into digital humidity values.
 ## 🌡️ Temperature Sensing Mechanism
+Temperature is measured using an NTC thermistor.
