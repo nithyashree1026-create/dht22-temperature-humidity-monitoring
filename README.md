@@ -5,3 +5,4 @@ It is commonly used in IoT systems, smart agriculture, weather stations, indoor 
 This repository explores the internal working mechanism, sensing methodology, ESP32 interfacing, and real-world engineering applications of the DHT22 sensor.
 ## 🧠 Working Principle
 The DHT22 combines two sensing components:
+* Capacitive humidity sensing element
