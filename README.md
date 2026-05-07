@@ -55,3 +55,4 @@ Using ESP32 Wi-Fi capability, environmental data can be monitored remotely.
 * Slower sampling rate
 * Sensitive to extreme environmental conditions
 * Not suitable for highly industrial precision applications
+## 🚀 Advanced Applications
