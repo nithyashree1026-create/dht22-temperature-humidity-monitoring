@@ -38,3 +38,4 @@ ESP32 communicates with DHT22 using GPIO pins.
 * Digital data transmitted
 * ESP32 processes values
 * Data displayed or sent to cloud platforms
+## 🌐 IoT Integration
