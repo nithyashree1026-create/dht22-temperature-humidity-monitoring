@@ -31,3 +31,4 @@ DHT22 uses a single-wire serial communication protocol.
 2. DHT22 responds with acknowledgment
 3. Sensor transmits 40-bit data packet
 4. Data includes humidity, temperature, and checksum
+## ⚙️ ESP32 Interfacing
