@@ -45,3 +45,4 @@ Using ESP32 Wi-Fi capability, environmental data can be monitored remotely.
 * Greenhouse monitoring
 * Indoor climate monitoring
 * Industrial environmental analysis
+## 🧩 Design Considerations
