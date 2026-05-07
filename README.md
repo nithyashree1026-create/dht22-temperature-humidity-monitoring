@@ -32,3 +32,4 @@ DHT22 uses a single-wire serial communication protocol.
 3. Sensor transmits 40-bit data packet
 4. Data includes humidity, temperature, and checksum
 ## ⚙️ ESP32 Interfacing
+ESP32 communicates with DHT22 using GPIO pins.
