@@ -24,3 +24,4 @@ The DHT22 typically contains:
 * DATA → Digital communication pin
 * NC → No connection
 * GND → Ground
+## 📡 Digital Communication Protocol
