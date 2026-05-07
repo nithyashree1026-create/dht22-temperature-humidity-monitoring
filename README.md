@@ -46,3 +46,8 @@ Using ESP32 Wi-Fi capability, environmental data can be monitored remotely.
 * Indoor climate monitoring
 * Industrial environmental analysis
 ## 🧩 Design Considerations
+### 🔹 Important Points:
+* Use pull-up resistor on data line
+* Avoid long cable distances
+* Maintain stable power supply
+* Prevent condensation exposure
