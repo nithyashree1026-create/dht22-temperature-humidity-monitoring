@@ -20,3 +20,7 @@ Temperature is measured using an NTC thermistor.
 * Internal ADC converts analog variation into digital temperature values
 ## 🔌 Pin Configuration
 The DHT22 typically contains:
+* VCC → Power supply
+* DATA → Digital communication pin
+* NC → No connection
+* GND → Ground
